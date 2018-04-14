@@ -1,0 +1,3 @@
+1. Background image(all) - I tried all the ways mentioned on the slack channel, but it would distort my formatting and not appear.
+2. Formatting and images(Portfolio)
+3. Paragraph and formatting (Index) 
